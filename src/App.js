@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import Navbar from "./components/Navbar";
 import Table from "./components/Table";
 import Modal from "./components/Modal";
+import Header from "./components/Header";
 import RecordsControllerAPI from "./services/RecordsControllerApi";
 import moment from "moment";
 
@@ -27,8 +27,8 @@ function App() {
   const [formInputs, setFormInputs] = useState(initialFormInputs);
 
   return (
-    <div className="container mt-5 bg-info p-5 rounded">
-      <Navbar />
+    <div className="container mt-5 p-5 rounded bg-secondary ">
+      <Header />
       <Modal
         data={records}
         setRecords={setRecords}

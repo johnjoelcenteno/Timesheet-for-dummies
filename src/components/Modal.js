@@ -69,7 +69,7 @@ const Modal = ({
   };
   return (
     <>
-      <TableButtons setFormTitle={setFormTitle} />
+      <TableButtons setFormTitle={setFormTitle} records={data} />
 
       <div
         className="modal fade"
@@ -96,13 +96,14 @@ const Modal = ({
             <div className="modal-body">
               <div className="form-group mt-3">
                 <label htmlFor="action" className="form-label">
-                  Action:
+                  Activity:
                 </label>
                 <input
                   type="text"
                   name="action"
                   className="form-control"
                   value={action}
+                  placeholder="Enter activity here"
                   onChange={(e) => setAction(e.target.value)}
                 />
               </div>
@@ -116,6 +117,8 @@ const Modal = ({
                   name="hours"
                   className="form-control"
                   value={hours}
+                  step={0.5}
+                  min={0}
                   onChange={(e) => setHours(e.target.value)}
                 />
               </div>
@@ -142,6 +145,7 @@ const Modal = ({
                   name="company"
                   className="form-control"
                   value={company}
+                  placeholder="Enter company here"
                   onChange={(e) => setCompany(e.target.value)}
                 />
               </div>
