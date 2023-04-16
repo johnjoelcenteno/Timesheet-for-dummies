@@ -1,0 +1,164 @@
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\appsettings.json
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Timesheet.exe
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Timesheet.deps.json
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Timesheet.runtimeconfig.json
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Timesheet.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Timesheet.pdb
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.csproj.AssemblyReference.cache
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.AssemblyInfoInputs.cache
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.AssemblyInfo.cs
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.csproj.CoreCompileInputs.cache
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\scopedcss\bundle\Timesheet.styles.css
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.csproj.CopyComplete
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\refint\Timesheet.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.pdb
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\Timesheet.genruntimeconfig.cache
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\obj\Debug\net6.0\ref\Timesheet.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Joel Gwapito\source\repos\Timesheet\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\appsettings.Development.json
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\appsettings.json
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Timesheet.exe
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Timesheet.deps.json
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Timesheet.runtimeconfig.json
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Timesheet.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Timesheet.pdb
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Azure.Core.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Azure.Identity.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Humanizer.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.CodeDom.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Memory.Data.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Text.Json.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\reactJs\first-react-app\Server\Timesheet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.csproj.AssemblyReference.cache
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.AssemblyInfoInputs.cache
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.AssemblyInfo.cs
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.csproj.CoreCompileInputs.cache
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.MvcApplicationPartsAssemblyInfo.cs
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.MvcApplicationPartsAssemblyInfo.cache
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\staticwebassets.build.json
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\staticwebassets.development.json
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\scopedcss\bundle\Timesheet.styles.css
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.csproj.CopyComplete
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.dll
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\refint\Timesheet.dll
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.pdb
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\Timesheet.genruntimeconfig.cache
+C:\reactJs\first-react-app\Server\Timesheet\obj\Debug\net6.0\ref\Timesheet.dll

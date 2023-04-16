@@ -1,23 +1,49 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState, useEffect } from "react";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Table from "./components/Table";
+import Modal from "./components/Modal";
+import RecordsControllerAPI from "./services/RecordsControllerApi";
+import moment from "moment";
 
 function App() {
+  const initialFormInputs = {
+    activity: "",
+    hours: 0,
+    date: moment(new Date().now).format("YYYY-MM-DD"),
+    company: "",
+  };
+  const [records, setRecords] = useState([]);
+  useEffect(() => {
+    async function fetchData() {
+      const recordsHelper = new RecordsControllerAPI("https://localhost:7169");
+      const allRecords = await recordsHelper.GetAllRecords();
+      setRecords(allRecords);
+    }
+    fetchData();
+  }, []);
+
+  const [formTitle, setFormTitle] = useState("Create Record");
+  const [formInputs, setFormInputs] = useState(initialFormInputs);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container mt-5 bg-info p-5 rounded">
+      <Navbar />
+      <Modal
+        data={records}
+        setRecords={setRecords}
+        formTitle={formTitle}
+        setFormTitle={setFormTitle}
+        formInputs={formInputs}
+        setFormInputs={setFormInputs}
+      />
+      <Table
+        data={records}
+        setRecords={setRecords}
+        setFormTitle={setFormTitle}
+        formInputs={formInputs}
+        setFormInputs={setFormInputs}
+      />
     </div>
   );
 }
