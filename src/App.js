@@ -11,7 +11,7 @@ function App() {
     activity: "",
     hours: 0,
     date: moment(new Date().now).format("YYYY-MM-DD"),
-    company: "",
+    company: "Blackfort",
   };
   const [records, setRecords] = useState([]);
   useEffect(() => {
