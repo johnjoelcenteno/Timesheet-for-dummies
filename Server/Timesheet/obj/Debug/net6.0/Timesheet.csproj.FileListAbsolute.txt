@@ -244,3 +244,8 @@ C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\refint\Times
 C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\Timesheet.pdb
 C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\Timesheet.genruntimeconfig.cache
 C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\ref\Timesheet.dll
+C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\staticwebassets\msbuild.Timesheet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\staticwebassets\msbuild.build.Timesheet.props
+C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Timesheet.props
+C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Timesheet.props
+C:\projects\Timesheet-for-dummies\Server\Timesheet\obj\Debug\net6.0\staticwebassets.pack.json

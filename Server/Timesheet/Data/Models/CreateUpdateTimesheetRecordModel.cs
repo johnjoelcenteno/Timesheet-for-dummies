@@ -4,7 +4,7 @@
     {
         public string Activity { get; set; }
         public decimal Hours { get; set; }
-        public DateTime Created { get; set; } = DateTime.Now;
+        public DateTime Created { get; set; }
         public string Company { get; set; }
     }
 }

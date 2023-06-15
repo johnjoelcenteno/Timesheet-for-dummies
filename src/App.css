@@ -35,3 +35,9 @@ label {
 input::placeholder {
   color: #aaa;
 }
+
+@media (max-width: 960px) {
+  .table-buttons {
+    margin-top: 10px;
+  }
+}

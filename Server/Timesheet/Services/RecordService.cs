@@ -29,7 +29,7 @@ namespace Timesheet.Services
 
         public List<TimesheetRecord> GetAllRecords()
         {
-            return _dbContext.Records.ToList();
+            return _dbContext.Records.Where(x => x.Created.Date == DateTime.Now.Date).ToList();
         }
 
         public Guid UpdateRecord(Guid id, CreateUpdateTimesheetRecordModel model)

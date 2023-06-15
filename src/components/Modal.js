@@ -23,7 +23,6 @@ const Modal = ({
   const [company, setCompany] = useState(fiCompany);
 
   useEffect(() => {
-    console.log(fiAction, "ako si fiAction");
     setAction(fiAction);
     setHours(fiHours);
     setDate(fiDate);
@@ -35,17 +34,45 @@ const Modal = ({
     setHours("");
   };
 
+  function sumHours(records) {
+    return records.reduce((total, current) => total + current.hours, 0);
+  }
+
+  const validateForm = () => {
+    let isValid = true;
+    let alertTitle = "Form invalid";
+
+    const formInputs = [action, hours, date, company];
+    if (sumHours(data) >= 8) {
+      isValid = false;
+      alertTitle = "Total hours is maxed";
+    }
+    if (formInputs.some((x) => x === "" || x === 0)) isValid = false;
+
+    Swal.fire({
+      position: "center",
+      icon: "error",
+      title: alertTitle,
+      showConfirmButton: false,
+      timer: 1500,
+    });
+    return isValid;
+  };
+
   const Submit = async () => {
+    // const isValid = validateForm();
+    // if (!isValid) return;
+
     const payload = {
       Activity: action,
       Hours: hours,
-      Date: date,
+      Created: date,
       Company: company,
     };
     const service = new RecordsControllerAPI("https://localhost:7169");
 
     let alertTitle = "";
-    if (formTitle == "Create record") {
+    if (formTitle === "Create record") {
       await service.CreateRecord(payload);
       clearForm();
       alertTitle = "Record created";
@@ -119,6 +146,7 @@ const Modal = ({
                   value={hours}
                   step={0.5}
                   min={0}
+                  placeholder="Enter hours here"
                   onChange={(e) => setHours(e.target.value)}
                 />
               </div>

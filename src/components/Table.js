@@ -9,7 +9,22 @@ const Table = ({
   formInputs,
   setFormInputs,
 }) => {
+  const deleteConfirmation = async () => {
+    return await Swal.fire({
+      title: "Are you sure?",
+      text: "You won't be able to revert this!",
+      icon: "warning",
+      showCancelButton: true,
+      confirmButtonColor: "#3085d6",
+      cancelButtonColor: "#d33",
+      confirmButtonText: "Yes, delete it!",
+    });
+  };
+
   const Delete = async (id) => {
+    const confirmation = await deleteConfirmation();
+
+    if (!confirmation.isConfirmed) return;
     const services = new RecordsControllerAPI("https://localhost:7169");
     await services.DeleteRecord(id);
     const allRecords = await services.GetAllRecords();
@@ -34,7 +49,7 @@ const Table = ({
       return data.map((data) => {
         counter++;
         return (
-          <tr key={data.id}>
+          <tr key={data.id} className="table-light">
             <td scope="row">{counter}</td>
             <td>{data.activity}</td>
             <td>{data.hours}</td>
@@ -42,13 +57,13 @@ const Table = ({
             <td>{data.company}</td>
             <td>
               <button
-                className="btn btn-danger btn-sm mx-2"
+                className="btn btn-danger btn-sm table-buttons mx-lg-3"
                 onClick={() => Delete(data.id)}
               >
                 <i className="fa-solid fa-trash"></i>
               </button>
               <button
-                className="btn btn-warning btn-sm"
+                className="btn btn-warning btn-sm table-buttons"
                 data-bs-toggle="modal"
                 data-bs-target="#staticBackdrop"
                 onClick={() => OpenModal(data.id)}
@@ -73,9 +88,9 @@ const Table = ({
   let counter = 0;
   return (
     <>
-      <table className={"table mt-3"}>
+      <table className="table table-striped rounded table-hover mt-3">
         <thead>
-          <tr>
+          <tr className="table-dark">
             <th scope="col">#</th>
             <th scope="col">Action</th>
             <th scope="col">Hours</th>

@@ -5,6 +5,7 @@ const Header = () => {
         {" "}
         🙈Timesheet for dummies🙈{" "}
       </h1>
+      <h3 align="center">Because excel is boring</h3>
     </>
   );
 };
